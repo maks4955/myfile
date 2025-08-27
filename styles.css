@@ -1,0 +1,21 @@
+p {
+    color: blue;
+    text-align: left;
+    font-size: 20px;
+ }
+.highlight {
+  color:black;
+  font-weight:bold;
+}
+#title {
+    background-color: rgb(47, 139, 151);
+    text-align: center;
+}
+.tagp {
+    color: red;
+    text-align: left;
+}
+#tag {
+    color: blueviolet;
+    text-align: center;
+}
