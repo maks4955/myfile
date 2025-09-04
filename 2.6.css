@@ -3,9 +3,63 @@ h1 {
 }
 #qwe {
     background-color: orange;
-    width: 100px;
-    height: 130px;
+    width: 200px;
+    height: 230px;
 }
 #pp {
     font-size: 2em;
+}
+#pwe {
+    background-color: rgb(255, 240, 107);
+    width: 200px;
+    height: 230px;
+}
+#hh {
+    font-size: 1.5rem;
+}
+#rr {
+    background-color: aquamarine;
+    width: 80px;
+    height: 70px;
+    margin: 10px;
+}
+#mm {
+    background-color: greenyellow;
+    width: 50%;
+    height: 50px;
+}
+body {
+    background-color: gray;
+}
+#img {
+    width: 300px;
+    height: 300px;
+    background-image: url(Kruzhka.jpg);
+}
+#kk {
+    width: 150px;
+    height: 150px;
+    background-color: #F78;
+}
+#ww {
+    font-size: 25px;
+    color: #a10;
+}
+#xx {
+    width: 230px;
+    height: 150px;
+    background-color: rgb(77, 110, 175);
+}
+#zz {
+    font-size: 2em;
+    color: rgb(44,55,33);
+}
+#gg {
+    height: 140px;
+    width: 230px;
+    background-color: rgba(0, 210, 250, 0.3)
+}
+#ll {
+    font-size: 26px;
+    color: rgba(255, 1, 158, 0.4);
 }
