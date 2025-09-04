@@ -24,6 +24,7 @@ div {
     background-color: black;
     padding: 40px;
     margin: 35px;
+    overflow: hidden;
 }
 #div2 {
     width: 100px;
