@@ -1,0 +1,31 @@
+.qqq {
+    color: white;
+    background-color: rgb(0, 0, 255);
+    margin: 10px;
+}
+.dd {
+    background-color: yellow;
+    font-size: 20px;
+}
+.ss {
+    background-image: url(Kruzhka.jpg);
+}
+#aa {
+    background-color: black;
+    color: aliceblue;
+    display: inline;
+    font-size: 23px;
+}
+#mm {
+    display: block;
+}
+.bvc {
+    display: block;
+    background-color: blueviolet;
+    margin: 15px;
+    padding: 10px;
+}
+.eee {
+    display: block;
+    font-size: 30px;
+}
