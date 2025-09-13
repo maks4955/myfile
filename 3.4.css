@@ -1,0 +1,57 @@
+.input:focus {
+    border-color: black;
+}
+.button:hover {
+    background-color: gray;
+    color: white;
+}
+.item1:first-child {
+    font-weight: bold;
+    color: green;
+}
+.item3:last-child {
+    color: lightseagreen;
+}
+div {
+    width: 200px;
+    height: 180px;
+    background-color: rgb(16, 185, 16);
+    color: white;
+    padding: 10px;
+}
+#tr {
+    margin: 20px;
+}
+#nt:hover {
+    background-color: #007bff;
+    color: #fff;
+}
+.li:nth-child(odd) {
+    background-color: pink;
+}
+.li:first-child {
+    font-size: 20px;
+}
+.li:last-child {
+    font-weight: bold;
+}
+.fc:focus {
+    background-color: yellow;
+}
+.vv:hover:first-child {
+    
+    background-color: #007bff;
+    color: #fff;
+}
+#lp {
+    margin: 8px;
+    background-color: gray;
+}
+#ip {
+    margin: 8px;
+    background-color: orange;
+}
+.tp:focus:last-child {
+    background-color: #007bff;
+    color: #fff;
+}
