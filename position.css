@@ -1,0 +1,52 @@
+.static {
+    position: static;
+    background-color: rgb(184, 21, 21);
+    color: aliceblue;
+    width: 100px;
+    height: 100px;
+}
+.relative {
+    position: relative;
+    background-color: blueviolet;
+    color: yellow;
+    width: 100px;
+    height: 100px;
+    top: 20px;
+    right: 15px;
+    left: 20px;
+    bottom: 20px;
+}
+.parent {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    color: white;
+}
+.absolute {
+    position: absolute;
+    background-color: black;
+    color: white;
+    top: 40px;
+    right: 25px;
+    left: 30px;
+    bottom: 20px;
+}
+.fixed {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+}
+.sticky {
+    position: sticky;
+    top: 30px;
+    background-color: white;
+}
+#ww {
+    width: 200px;
+    height: 700px;
+    background-color: green;
+}
